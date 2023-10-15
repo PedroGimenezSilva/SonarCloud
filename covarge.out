@@ -1,0 +1,7 @@
+mode: set
+example.com/myproject/Sonaqube/go/sum.go:5.14,7.2 1 0
+example.com/myproject/Sonaqube/go/sum.go:9.28,11.2 1 1
+example.com/myproject/Sonaqube/go/sum.go:14.28,16.2 1 0
+example.com/myproject/Sonaqube/go/sum.go:20.30,22.2 1 0
+example.com/myproject/Sonaqube/go/sum.go:25.29,27.2 1 0
+example.com/myproject/Sonaqube/go/sum.go:30.29,32.2 1 0
